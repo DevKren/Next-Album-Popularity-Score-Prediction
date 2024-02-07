@@ -16,9 +16,13 @@ from sklearn.metrics import mean_absolute_error
 
 Formulas Used: 
 Mean Absoute Error
+
 1 / n ∑ of y - y_hat 
+
 n = total data points 
+
 y = actual output value
+
 y_hat = predicted output value 
 
 Use this to get an accuracy number for testing and training on the model 
