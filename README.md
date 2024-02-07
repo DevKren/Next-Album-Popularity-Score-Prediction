@@ -34,6 +34,8 @@ Problems:
 It was hard to learn the spotify developer program, but after a feel google searches it all made sense
 Having data not get lost, I had to run it multiple times because data was being lost when the sessions would be restarted
 Finding the data within the Spotipy library to actually be able to use (e.g: Can't get streams so had to use popularity score)
+
+
 Takeaways: 
 Taught myself another ML model that I haven't heard of before
 Getting more comfortable with Pandas and Numpy and application with these libraries
